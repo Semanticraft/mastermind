@@ -1,0 +1,3 @@
+resetting lists
+discarding codes
+guessing by worst case

@@ -1,0 +1,190 @@
+Servercode wird vom lokalen GuesserBot gelöst
+starting bot loop
+0
+guess: 22117
+response: (2, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+1
+guess: 24813
+response: (1, 1)
+response is not None
+trying to give feedback
+feedback given
+turn added
+2
+guess: 26165
+response: (1, 1)
+response is not None
+trying to give feedback
+feedback given
+turn added
+3
+guess: 28757
+response: (2, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+4
+guess: 54157
+response: (5, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+Servercode wird vom lokalen GuesserBot gelöst
+starting bot loop
+0
+guess: 55663
+response: (0, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+1
+guess: 61875
+response: (0, 3)
+response is not None
+trying to give feedback
+feedback given
+turn added
+2
+guess: 23518
+response: (1, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+3
+guess: 86216
+response: (1, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+4
+guess: 16138
+response: (1, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+5
+guess: 73126
+response: (3, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+6
+guess: 13726
+response: (5, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+Servercode wird vom lokalen GuesserBot gelöst
+starting bot loop
+0
+guess: 2211
+response: (2, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+1
+guess: 2222
+response: (4, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+Servercode wird vom lokalen GuesserBot gelöst
+starting bot loop
+0
+guess: 2211
+response: (1, 2)
+response is not None
+trying to give feedback
+feedback given
+turn added
+1
+guess: 1121
+response: (2, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+2
+guess: 2122
+response: (4, 0)
+response is not None
+trying to give feedback
+feedback given
+turn added
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+5
+6
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+5
+6
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+5
+6
+7
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+Servercode wird vom lokalen GuesserBot gelöst
+0
+1
+2
+3
+4
+5
+6

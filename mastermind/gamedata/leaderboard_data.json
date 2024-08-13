@@ -1,0 +1,72 @@
+[
+    {
+        "name": "mastermind_1",
+        "number_of_turns": 1,
+        "playtime": 2882.950439453125,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "speedy dave",
+        "number_of_turns": 2,
+        "playtime": 0.0,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "george cloo",
+        "number_of_turns": 2,
+        "playtime": 3978.580078125,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "jaden",
+        "number_of_turns": 2,
+        "playtime": 4273.077880859375,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "boss",
+        "number_of_turns": 2,
+        "playtime": 7238.14404296875,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "bossin",
+        "number_of_turns": 2,
+        "playtime": 7950.30712890625,
+        "sequence_length": 4,
+        "color_count": 2
+    },
+    {
+        "name": "der salinger",
+        "number_of_turns": 2,
+        "playtime": 20377.246826171875,
+        "sequence_length": 5,
+        "color_count": 2
+    },
+    {
+        "name": "bot",
+        "number_of_turns": 3,
+        "playtime": 1021.580810546875,
+        "sequence_length": 5,
+        "color_count": 8
+    },
+    {
+        "name": "DUDE",
+        "number_of_turns": 3,
+        "playtime": 4456.077880859375,
+        "sequence_length": 5,
+        "color_count": 4
+    },
+    {
+        "name": "da-vi-d",
+        "number_of_turns": 3,
+        "playtime": 5554.8759765625,
+        "sequence_length": 4,
+        "color_count": 2
+    }
+]
